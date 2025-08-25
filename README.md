@@ -1,6 +1,6 @@
 
 
-````
+
 # Browser History Management System
 
 A React-based web application to manage and search browsing history with features like real-time search filtering,
@@ -29,7 +29,7 @@ persistent storage, dark mode toggle, item deletion, and reset functionality.
 ---
 
 ## Project Structure
-
+````
 src/
 │── components/
 │   └── BrowserHistory.js   # Main BrowserHistory component
@@ -37,8 +37,8 @@ src/
 │── App.css                 # Global styles
 │── index.js                # ReactDOM entry point
 │── index.css               # Base styles
-````
 
+````
 ---
 
 ## Installation & Setup
